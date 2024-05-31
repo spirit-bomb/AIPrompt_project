@@ -28,3 +28,15 @@ This web app allows you to create AI specific prompts and save them for future u
 
 1)
 https://github.com/spirit-bomb/AIPrompt_project/assets/136380969/db483853-fd15-4d18-b8fd-660e64746f41
+
+2)
+![Screenshot (126)](https://github.com/spirit-bomb/AIPrompt_project/assets/136380969/237ae273-875a-481e-9ede-a219af09a1d8)
+
+3)
+![Screenshot (127)](https://github.com/spirit-bomb/AIPrompt_project/assets/136380969/48993d8c-7ad1-40d0-8fdf-bf968efcb6fe)
+
+4)
+![Screenshot (129)](https://github.com/spirit-bomb/AIPrompt_project/assets/136380969/1e9291e0-74de-4797-8ee9-f617333fc13d)
+
+5)
+![Screenshot (130)](https://github.com/spirit-bomb/AIPrompt_project/assets/136380969/11a64710-7ec0-4a3a-bfc8-fb9bf9fa76ae)
